@@ -1,0 +1,12 @@
+Daily Workflow
+Now your life is much simpler!
+
+Make Changes: Edit your code locally.
+Test: Run npm run dev to make sure everything works.
+Save & Deploy:
+
+git add .
+git commit -m "Description of changes"
+git push
+
+That's it! GitHub will see the push, automatically build your site, and publish it.
